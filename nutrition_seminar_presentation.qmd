@@ -1,0 +1,448 @@
+---
+title: "Mediterrane-Ernährung & Schlaf"
+type: website
+output-dir: docs
+format: 
+  revealjs:
+    theme: edtheme.scss
+author:
+  - name: "Alfred J."
+logo: /images/muw.svg
+bibliography: references.bib
+nocite: |
+  @*
+---
+# Warum Schlaf? 
+![](images/Sleeping.svg){.absolute top=-200 right=-200 width=50%}
+
+. . . 
+
+**Ausgewählte Studie:**
+*Mediterranean Diet and Sleep Features: A Systematic Review of Current Evidence*
+
+von Justyna Godos et al.
+
+
+::: notes
+Ziel der Präsi
+
+-   viel Bewegung und gesunde Ernährung sehr bekannt
+-   Schlaf (in unserer Gesellschaft) aber wenig
+-   aber ebenso relevant für prävention von NCDs!
+-   Alles ist irgendwie intervened:
+-   hat Art der Ernährung einen Einfluss auf Schlaf?
+:::
+
+## Key-Points {auto-animate=true}
+<br>
+
+#### Mediterrane Ernährung und Schlaf signifikant zusammenhängend
+
+<br>
+<br>
+
+#### Einflussfaktor: weniger *Stress*!
+
+## Key-Points {auto-animate=true}
+<br>
+
+#### Mediterrane Ernährung und Schlaf signifikant zusammenhängend
+- Schlafdauer und -qualität positiv beeinflusst 
+- Reduktion von Schlafpathologien (z.B. Insomnien)
+
+#### Einflussfaktor: weniger *Stress*!
+- Anti-Inflammatorische Effekte
+- Gesünderes Mikrobiom
+
+
+::: notes
+Antiinflammatio: über Molekulare Signalwege durch Fette, Polyphenole
+Darm-Hirnachse: Ballaststoffreiche Ernährung fördert gesunde Darmflora
+-\> Vermeidung von Stress im Darm
+:::
+
+## Veröffentlichung 
+- Januar 2024
+- kleines Open Access Journal
+- moderater Impact Factor (5.9)
+
+![](images/nutrients.png){width=60% style="transform: rotate(-20deg);" .absolute bottom=200 right=-100}
+
+
+::: notes
+- 2024 in Nutrients veröffentlicht
+- in Recherschen immer wieder drauf gestoßen
+:::
+
+## Methodik {.smaller}
+
+:::: {.columns}
+
+::: {.column width="35%"}
+#### Systemic Review
+
+Richtlinien getreue Studienauswahl, die gezielt Beobachtungsstudien auswählte. Zur Exklusion führten u.a. Untersuchungs-populationen die nur Kinder, Schwangere oder
+schwerst Kranke beinhalteten. 
+:::
+
+::: {.column width="3%"}
+:::
+
+:::{.column width="62%"}
+![](images/method.png){width=70%}
+:::
+
+::::
+
+**In Summe blieben 23 Studien. Davon 13 aus dem Mittelmeerraum.**
+
+::: notes
+Systemic Review der bestehenden Literatur zur genannten Fragestellung
+
+-   Sammlung und Studienauswahl nach empfohlenen Richtlinien
+
+-   insgesamt 23 Studien beibehalten
+
+    -   davon 13 mit Daten aus Mittelmeerregion
+
+-   Einbezogen wurden
+
+    -   Beobachtungsstudien (cohort, cross sectional, case control)
+
+    -   Erwachsene untersuchten
+
+    -   Daten zur Beziehung zw. Med. Diät und Schlaf vorwiesen
+
+-   Ausgeschlossen wurden Studien die nur folgende Gruppen untersucht haben
+
+    -   Schwangere Personen
+
+    -   Kinder
+
+    -   Patienten mit Erkrankungen im Endstadium
+:::
+
+## Ergebnisse
+::: {.r-stack}
+![](images/table1.png){.fragment}
+
+![](images/greece_table.png){.fragment width=80%}
+
+![](images/greece_2.png){.fragment}
+
+![](images/nurse_neuropatt.jpg){.fragment}
+
+![](images/usa.png){.fragment width="60%"}
+
+![](images/sweden.jpg){.fragment}
+
+![](images/sweden_pattern.jpg){.fragment}
+:::
+
+::: notes
+transient screenshots of some strong studies with comments from the text
+
+-   Grundlegend:
+
+    -   in breiter Masse positive Beziehung zwischen Med. Diät und Schlaf
+
+        -   in Schlafdauer und Qualität
+
+            -   auch in Gruppen mit bestehenden Schlafstörungen (Schlafapnoe)
+
+        -   als auch in Vermeidung von Schlafpathologien (zB Insomnien)
+
+    -   Italien
+
+        -   obesity, programs of nutrition education research assesment (OPERA)
+
+        -    kleine Studie, konsistent mit den restlichen größeren
+
+        -   hohe signifikanz!
+
+    -   Griechenland
+
+        -   studie 1
+
+            -   mit 957 Teilnehmern
+
+            -   längerer Schlaf + besserer Schlaf
+
+            -   interessant hier noch Konsum von Kaffee und Zeitpunkt der letzt Mahlzeit
+
+        -   Studie 2
+
+            -   Heliad mit 1639 Teilnehmern
+
+            -    hoch sig. Effekt auf die SchlafQualität für jene unter 75 zeigten
+
+    -   USA
+
+        -   studie 1
+
+            -   daten aus der bekannten Nurses' Health Study and the Health Professionals Follow-up Study
+            -   länger andauernde gesunde ernährung reduziert Auftreten von neurodegenerativen Erscheinungen
+
+        -   studie 2
+
+            -   Einhaltung von Med Diät wirkt sich reduzierend auf das Auftreten von Insomnien
+
+            -   Beobachtungszeitraum von ca 10 Jahren
+
+            -   Beibehaltung der gesunden Ernährung signifkant
+
+            -   Verbesserung der Ernährung durch andere Lifestyle Faktoren überdeckt
+
+    -   Schweden
+
+        -   mit die größte Studie (21339 TeilnehmerInnen)
+
+        -   eher umkehr betrachtet -\> schlafeffekt auf med Diät
+
+        -   interessanter Punkt zu "zu viel" und "zu wenig" schlaf
+
+            -   -\> grafiken
+
+            -   und essverhalten (regelmäßige Mahlzeiten)
+
+-   einige wenige Studien die
+
+    -   keine sign. Effekte gemessen haben
+
+    -   nur für Männer aber nicht für Frauen
+:::
+
+
+## {#overview data-menu-title="Result-Overview"}
+:::: {.columns}
+
+::: {.column width="33%"}
+![](images/table1.png)
+:::
+
+::: {.column width="33%"}
+![](images/greece_table.png)
+:::
+
+::: {.column width="33%"}
+![](images/greece_2.png)
+:::
+::::
+
+:::: {.columns}
+
+::: {.column width="33%"}
+![](images/nurse_neuropatt.jpg)
+:::
+
+::: {.column width="33%"}
+![](images/usa.png)
+:::
+
+::: {.column width="33%"}
+![](images/sweden_pattern.jpg)
+:::
+::::
+
+## Ursache-Wirkung {auto-animate=true auto-animate-id=wk}
+Wie lässt sich der Ernährungseffekt erklären?
+
+:::: {.columns}
+
+::: {.column width="50%" .fragment}
+#### Anti-Inflammatorisch
+
+:::
+
+::: {.column width="50%" .fragment}
+#### Hirn-Darm Achse
+
+:::
+
+::::
+
+## Ursache-Wirkung {auto-animate=true auto-animate-id=wk}
+Wie lässt sich der Ernährungseffekt erklären?
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- Polyphenole
+- MUFA, PUFA, EPA und DHA
+- Glucose-Reduktion
+
+#### Anti-Inflammatorisch
+:::
+
+::: {.column width="50%"}
+- Ballaststoffe und Symbiose
+- Stress-Reduktion
+
+<br>
+
+#### Hirn-Darm Achse
+:::
+
+::::
+
+:::: aside 
+
+::: {style="font-size: 13px;"}
+Zur antiinflammatorischen und protektiven Wirkung ist die Art des überwiegenden Stoffwechsels (Fett/Proteine vs. Glucose) besonders spannend. In diesem Zusammenhang sei hier auf die protektive Wirkung von ROS durch mitochondriale Arbeit hingewiesen. Den dazu gehörigen Begriff *mitohormesis* haben wir in der letzten Vorlesung bereits kurz gehört.
+:::
+
+::::
+
+::: notes
+1.  Polyphenole im ZNS
+    1.  einschub auf ROS?
+    2.  inhb. nfkb und andere pro inflm. pathways
+    3.  aktivieren stress response wege (sirtuine)
+2.  Macronährstoffe
+    1.  EPA DHA durch viel gesunde Fette (MUFA,PUFA, fishöl etc)
+        1.  precursor für u.a. PG3
+        2.  -\> anti-inflamm. im vgl. zu PG2 (aus Linolsäure, o6)
+    2.  Weniger Fleisch = weniger ungesunde Fette (trans-fette, langkettige gesätt. FS)
+        1.  somit weniger aktivierung durch TLR Bindung im Immunsystem
+        2.  ergo weniger Entzündungsreaktionen
+    3.  mehr Carbs, insb. Ballaststoffe = besserer Schlaf
+        1.  viele BS = gering. Glyk-Index
+        2.  viel einfache Zucker (Glu)
+            1.  -\> hippocampus und hypothalamus unhappy
+            2.  unklare ursache leider
+    4.  Wirkung über mikrobiom
+        1.  BS reich = mehr gesundes mikrobiom (stärkung der symbiotica)
+        2.  Hirn-Darm Axe -\> Gutes Mikrobiom = guter schlaf
+        3.  short chain fatty acids durch BS fermentation
+            1.  schützt/ baut darmwand auf +
+            2.  lokal antiinflamm.
+        4.  gegenteil: dysbiosis -\> leaky gut
+            1.  höhere darm permea
+            2.  u.a. LPS von bakterien die immunreaktion auslösen = Stress!
+
+:::
+
+## Probleme {auto-animate=true auto-animate-id=pb}
+
+1) Einige Studien zeigten auch einen Effekt von Schlaf auf das Ernährungsverhalten
+2) Keine quantitative Untersuchung möglich durch mangelnde Standards
+
+:::: {.columns .fragment}
+
+::: {.column width="20%"}
+medas
+:::
+
+::: {.column width="20%"}
+mMED
+:::
+
+::: {.column width="20%"}
+MIND
+:::
+
+::: {.column width="20%"}
+aMed
+:::
+
+::: {.column width="20%"}
+AMED
+:::
+::::
+
+::: notes
+-   inkludierte Studien unklar bzgl.
+
+    -   Kausalität
+
+    -   Richtung des Effekts (beeinflusst Schlaf Essen oder umgekehrt)
+
+-   ungenaue Datenerfassung in Studien
+
+    -   Ernährungsweise bzw. Erfassung der Med. Diät tendenziell eher abgeleitet
+
+    -   Schlafvariablen per eigenerfassung
+
+-   Vielseitigkeit der Methoden zum Erfassen der Inhalte im letzten Punk
+
+    -   keine Möglichkeit Daten einheitlich zu betrachten
+
+        -   zb: medas, mMED MD MIND, aMed, AMED etc
+
+    -   somit keine quantitative Analyse möglich
+:::
+
+## Probleme {auto-animate=true auto-animate-id=pb}
+
+1) Einige Studien zeigten auch einen Effekt von Schlaf auf das Ernährungsverhalten
+2) Keine quantitative Untersuchung möglich durch mangelnde Standards
+3) Datenerfassung zu Ernährung und Schlaf oft nicht objektiv
+
+:::: {.columns style="font-size: 5; color: gray;"}
+
+::: {.column width="20%"}
+medas
+:::
+
+::: {.column width="20%"}
+mMED
+:::
+
+::: {.column width="20%"}
+MIND
+:::
+
+::: {.column width="20%"}
+aMed
+:::
+
+::: {.column width="20%"}
+AMED
+:::
+::::
+
+## Ausblick 
+Fragen die Unbeantwortet blieben
+
+. . . 
+
+<br>
+
+#### Mahlzeitenfrequenz
+
+sowie
+
+#### Mahlzeiteninhalt und Zeitpunkt
+
+::: notes
+-   Neben dem Ernährungsinhalt wichtige punkte:
+
+    -   Mahlzeitenfrequenz und Verteilung -\> Wann letzte Mahlzeit
+
+    -   Unterschiede wann was gegessen wird?
+
+-   Bye!
+:::
+
+
+## Zusammenfassung {.center .smaller}
+
+#### gesunde Ernährungsweise fördert guten Schlaf
+Ernährungsweisen wie die Mediterrane wirken sich positiv auf Schlafdauer und -qualität aus. Zudem sinkt es das Risiko für das Auftreten von Schlafpathologien wie Insomnien, Tagesmüdigkeit und weiteren.
+
+#### simultane Kausalität möglich
+Gesunder Schlaf kann aber unter Umständen auch Wirkung auf eine gesunde Ernährungsweise selbst haben. Denkbar sind hier Effekte, die die Akzeptanz und Beibehaltung dieser beeinflussen.
+
+#### Multifaktorieller Einfluss durch Lebensstil!
+Nicht vergessen sollte man natürlich weitere Faktoren wie Bewegungsumfang, Stress, soziale Umstände und Interaktionen zwischen allen diesen.
+
+# {background-iframe="other-iframe/index.html"}
+
+::: {style="font-size: 2em; color: #FFEFD5; text-align: center; font-family: Garamond, serif;"}
+Mahlzeit & Gute Nacht!
+:::
+
+## References
+
+::: {#refs}
+:::
