@@ -1,5 +1,4 @@
 project:
   title: "nutrition_seminar_presentation"
-
-
-
+  type: website
+  output-dir: docs
