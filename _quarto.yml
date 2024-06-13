@@ -1,4 +1,11 @@
 project:
   title: "nutrition_seminar_presentation"
+<<<<<<< HEAD
   type: website
   output-dir: docs
+=======
+  
+
+
+
+>>>>>>> d302999 (initial commit)
