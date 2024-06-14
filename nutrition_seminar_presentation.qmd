@@ -66,12 +66,21 @@ Darm-Hirnachse: Ballaststoffreiche Ernährung fördert gesunde Darmflora
 - kleines Open Access Journal
 - moderater Impact Factor (5.9)
 
-![](images/nutrients.png){width=60% style="transform: rotate(-20deg);" .absolute bottom=200 right=-100}
+![](images/nutrients.png){width=60% style="transform: rotate(-20deg);" .absolute bottom=300 right=-100}
+
+:::: aside
+
+::: {style="font-size: 13px;"}
+Kleine Erwähnung soll hier noch die Seite [Nutritionfacts](https:\\nutritionfacts.org){target="_blank" rel="noopener noreferrer"} für evidenzbasierte Ernährungsinformationen erhalten. Mir hat diese sehr bei der Themennavigation geholfen. Dort bin auch des öfteren auf das o.g. Journal gestoßen.   
+:::
+
+::::
 
 
 ::: notes
 - 2024 in Nutrients veröffentlicht
-- in Recherschen immer wieder drauf gestoßen
+- in Recherchen immer wieder drauf gestoßen
+
 :::
 
 ## Methodik {.smaller}
@@ -81,7 +90,7 @@ Darm-Hirnachse: Ballaststoffreiche Ernährung fördert gesunde Darmflora
 ::: {.column width="35%"}
 #### Systemic Review
 
-Richtlinien getreue Studienauswahl, die gezielt Beobachtungsstudien auswählte. Zur Exklusion führten u.a. Untersuchungs-populationen die nur Kinder, Schwangere oder
+Richtlinien getreue Studienauswahl, die gezielt Beobachtungsstudien auswählte. Zur Exklusion führten u.a. Unter-suchungspopulationen die nur Kinder, Schwangere oder
 schwerst Kranke beinhalteten. 
 :::
 
@@ -158,7 +167,7 @@ transient screenshots of some strong studies with comments from the text
 
         -    kleine Studie, konsistent mit den restlichen größeren
 
-        -   hohe signifikanz!
+        -   hohe Signifikanz!
 
     -   Griechenland
 
@@ -295,22 +304,23 @@ Zur antiinflammatorischen und protektiven Wirkung ist die Art des überwiegenden
 
 ::: notes
 1.  Polyphenole im ZNS
-    1.  einschub auf ROS?
-    2.  inhb. nfkb und andere pro inflm. pathways
-    3.  aktivieren stress response wege (sirtuine)
+    1.  inhb. nfkb und andere pro inflm. pathways
+    2.  aktivieren stress response wege (sirtuine)
+    3.  Einschub auf ROS?
 2.  Macronährstoffe
-    1.  EPA DHA durch viel gesunde Fette (MUFA,PUFA, fishöl etc)
-        1.  precursor für u.a. PG3
+    1.  EPA DHA durch viel gesunde Fette (MUFA,PUFA, Fischöl etc)
+        1.  Precursor für u.a. PG3
         2.  -\> anti-inflamm. im vgl. zu PG2 (aus Linolsäure, o6)
+        3. PG3 serie hemmt auch pg2 synthese
     2.  Weniger Fleisch = weniger ungesunde Fette (trans-fette, langkettige gesätt. FS)
         1.  somit weniger aktivierung durch TLR Bindung im Immunsystem
         2.  ergo weniger Entzündungsreaktionen
     3.  mehr Carbs, insb. Ballaststoffe = besserer Schlaf
         1.  viele BS = gering. Glyk-Index
-        2.  viel einfache Zucker (Glu)
+        2.  viel einfache Zucker (schnell verfügbare Glu)
             1.  -\> hippocampus und hypothalamus unhappy
             2.  unklare ursache leider
-    4.  Wirkung über mikrobiom
+    4.  Wirkung über Mikrobiom
         1.  BS reich = mehr gesundes mikrobiom (stärkung der symbiotica)
         2.  Hirn-Darm Axe -\> Gutes Mikrobiom = guter schlaf
         3.  short chain fatty acids durch BS fermentation
@@ -402,7 +412,7 @@ AMED
 ::::
 
 ## Ausblick 
-Fragen die Unbeantwortet blieben
+Fragen die unbeantwortet blieben
 
 . . . 
 
